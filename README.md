@@ -1,7 +1,10 @@
-# Anime Recommendation System: HTML, PHP, JS and CSS
+# Anime Recommendation System
+
 This is a website created to gather and organize information on animes streamed on Crunchyroll. The languages HTML, PHP, MySQL, JavaScript, and CSS were used. Additionally, Google and Plotly graph resources were implemented to provide better insights into database trends.
 
-![ezgif com-video-to-gif-converter](./resources/preview-ezgif.com-video-to-gif-converter.gif)
+<div align="center">
+  <img src="assets/preview.gif" width="800"/>
+</div>
 
 ## Contributing
 
